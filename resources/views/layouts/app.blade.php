@@ -19,7 +19,8 @@
 
     <script src="{{ asset('/jqtree/tree.jquery.js') }}"></script>
 
-    <script src="{{ asset('/js/ckeditor5/ckeditor.js') }}"></script>
+    {{-- <script src="{{ asset('/js/ckeditor5/ckeditor.js') }}"></script> --}}
+    <script src="{{ asset('/js/ck4/ckeditor.js') }}"></script>
 
 
 
